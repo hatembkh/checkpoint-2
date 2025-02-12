@@ -1,0 +1,23 @@
+.photo {
+    width: 200px;
+    height: 250px;
+    border-radius: 50px;
+    padding: 30px;
+    
+}
+.photo:hover {
+    background-color: rgb(173, 173, 173);
+}
+.photo1 {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+border-radius: 50px;
+}
+.photo1:hover {
+background-color: rgb(168, 225, 246);
+}
+.description2 ul li {
+    list-style-type: none;
+    padding-top: 20px;
+}
